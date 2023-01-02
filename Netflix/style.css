@@ -1,0 +1,17 @@
+.header{
+    height:101px;
+    width:100%
+}
+.height{
+    height: 101px!important;
+}
+.logo svg{
+    height: 49.36px;
+    width: 49.36px;
+}
+.first{
+    background-color: #1E3932;
+}
+.heading{
+    font-size: 3.2rem!important;
+}
